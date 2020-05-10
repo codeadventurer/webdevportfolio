@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Anna Dontcova',
-  subtitle: "I'm a Full Stack Developer",
+  subtitle: "I'm a Frontend Developer",
   cta: 'Know more',
 };
 
@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'about.jpeg',
   paragraphOne:
-    'I am a Web Developer currently working for a legal tech startup in Berlin. My stack includes JavaScript, ReactJS, NodeJS, Ruby on Rails, HTML & CSS. I use on daily basis modern development methods and technologies such as version control with Git, collaboration on GitHub as well as working with and building APIs.',
+    'I am a web developer currently working for a legal tech startup in Berlin. My stack includes JavaScript, ReactJS, NodeJS, Ruby on Rails, HTML & CSS. I use on daily basis modern development methods and technologies such as version control with Git, collaboration on GitHub as well as working with and building APIs.',
   paragraphTwo:
     'Additionally I have a background in cultural heritage management and a long history of working for tourism companies, cultural foundations, universities and NGOs.',
   paragraphThree: '',
